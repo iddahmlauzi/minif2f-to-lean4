@@ -3,7 +3,6 @@ All the proofs are taken from the miniF2F github and translated into Lean 4:
 https://github.com/openai/miniF2F/blob/main/lean/src/valid.lean
 -/
 
-import Aesop
 import Mathlib.Algebra.BigOperators.Basic
 import Mathlib.Data.Real.Basic
 import Mathlib.Data.Complex.Basic
